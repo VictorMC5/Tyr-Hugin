@@ -1,0 +1,48 @@
+                                        <!DOCTYPE html>
+                                        <html lang="en">
+                                        <head>
+                                            <meta charset="UTF-8">
+                                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                            <title>Tyr Hugin</Hgroup></title>
+
+
+                                            <style>
+                                        h1.supertitulo{color:blueviolet; font-size: 15;}
+
+                                        .supertitulo{font-size: 100px;}
+                                #titulo{font: size 120px; color: brown; background-color: black;}
+        #titulo2{font-size: 50; color: skyblue; background-color: lightseagreen;}
+                                .central{text-align: center;}
+p{text-align: center;color: cyan;font-size: 30;}
+h2{text-align: center; font-size: 40; color: black;}
+                                .minhalista li {color: dodgerblue; text-align: center; font-size: 40;}
+
+#pokemons{font-size: 25; color: indigo; background-color: darkgray; text-align: center;}
+
+                                    p{color: rgb(5, 5, 5); background-color: aquamarine ;}
+                                    
+
+
+                                            </style>
+                                            
+                                        </head>
+
+                                        <body>
+                                            <h1 class="supertitulo central" id="titulo">Essa é a história de um Malefic que veio a voar!!</h1>
+                                            <p>Era apenas um jovem que iniciou sua jornada pokemon aos 29 anos e hoje está com seus 34 anos e hoje é um grande treinador de pokemons voadores</p>
+                                    <p>Tyr Hugin tambem conhecido como Vitoco ou VitinhoDaCaminha, tem 34 anos e é muito experiente no ramo de orações.</p>
+                                    <h2 id="titulo2">Logo abaixo teremos a lista de seus guerreiros</h2>
+
+                                    <ul class="minhalista">
+                                    <b><h1 id="pokemons">Lista de Pokemons</h1></b>
+                            <li>Jack Sfearow</li>
+                            <li>Penoso</li>
+                            <li>AcrobatA</li>
+                            <li>Hortência</li>
+                            <li>Garibaldo</li>
+                            <li>Starapdo</li>
+                            </ul>
+
+
+                                </body>
+                                </html>
